@@ -1,0 +1,9 @@
+matplotlib==3.5.1
+numpy==1.22.4
+opencv_python==4.5.5.62
+PySimpleGUI==4.60.4
+pywin32==302
+torch==1.10.2
+torchvision==0.11.3
+tqdm==4.63.0
+win32gui==221.6
